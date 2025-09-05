@@ -1,0 +1,1 @@
+alter table T1 Add Column C1 INT;
